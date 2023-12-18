@@ -1,0 +1,14 @@
+{
+    "name": "coursp4",
+    "version": "1.0.0",
+    "description": "Cours P4",
+    "main": "index.js",
+    "scripts": {
+        "start": "node hello.js"
+    },
+    "author": "Votre Nom",
+    "license": "Votre licence",
+    "dependencies": {
+        "nodemon": "^3.0.2"
+    }
+}
